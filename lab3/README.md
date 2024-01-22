@@ -15,4 +15,4 @@ Assignment: Lab 1
 ![Alt text](4.png)
 
 ## Minikube Dashboard
-![Alt text](image.png)
+![Alt text](Dashboard.png)
